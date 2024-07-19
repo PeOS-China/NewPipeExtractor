@@ -8,8 +8,8 @@ allprojects {
     sourceCompatibility = JavaVersion.VERSION_11
     targetCompatibility = JavaVersion.VERSION_11
 
-    version 'v0.25.2'
-    group 'com.github.TeamNewPipe'
+    version 'v0.27.1'
+    group 'com.github.PeOS-China'
 
     repositories {
         mavenCentral()
